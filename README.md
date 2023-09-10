@@ -1,4 +1,11 @@
-### Hi there 👋
+## Blogs
+
+* [Qiita](https://qiita.com/TomoyukiSugiyama)
+* [Zenn](https://zenn.dev/s_tomoyuki)
+
+## Slides
+
+* [Speakerdeck](https://speakerdeck.com/tomoyukisugiyama)
 
 <!--
 **TomoyukiSugiyama/TomoyukiSugiyama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
